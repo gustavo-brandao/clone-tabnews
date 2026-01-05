@@ -1,2 +1,5 @@
 # clone-tabnews
 Um projeto para aprender programação.
+
+
+Implementação do https://www.tabnews.com.br para o https://curso.dev
